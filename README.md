@@ -1,0 +1,1 @@
+This project applies statistical inference and hypothesis testing techniques to the Palmer Penguins dataset to analyze biological differences among penguin species. The goal is to draw data-driven conclusions about relationships between physical characteristics such as bill length, bill depth, flipper length, and body mass across different species and sexes.
