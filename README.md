@@ -11,3 +11,17 @@ Objectives:
 4.Interpret results using p-values 
 
 5.Make statistically sound inferences about penguin species characteristics
+
+Tools & Technologies:
+
+1.Python
+
+2.Pandas, NumPy
+
+3.SciPy, StatsModels
+
+4.Matplotlib, Seaborn
+
+Dataset:
+
+The dataset used is the Palmer Penguins dataset, a popular alternative to the Iris dataset for statistical learning and data analysis.
